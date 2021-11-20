@@ -1,0 +1,23 @@
+{
+  "name": "csc3221-autumn2021-project3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrebenik/csc3221-autumn2021-Project3.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/agrebenik/csc3221-autumn2021-Project3/issues"
+  },
+  "homepage": "https://github.com/agrebenik/csc3221-autumn2021-Project3#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  }
+}
